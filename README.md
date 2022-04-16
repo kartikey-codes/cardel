@@ -13,10 +13,10 @@ Not only this since the nft cards are based on entrepreneurs their overall power
 Our project aims to fund NGOs which work to provide basic necessities to the underprivileged children through the profits obtained in the process.
 And like mutual funds our nft card values will also be subject to market risks ;) 
 
-*******************************************************UPDATES****************************************
+*******************************************************UPDATES****************************************************
 
 
-!)CREATED GAME FOR USERS TO PLAY
+1)CREATED GAME FOR USERS TO PLAY
 2)LINKED METAMASK WALLET (so that if a player wins our nft it can be directly stored in his wallet also he can use his metamask wallet for transactions ).
-3)WORKING ON IMPLEMENTING AuthO
+3)IMPLEMENTed AuthO
 4)WORKING ON FRONTEND OF THE GAME AND ON ADDING SOME MORE FEATURES!
