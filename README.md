@@ -1,22 +1,70 @@
+# Getting Started with Create React App
 
-# Cardel
-An NFT card game
-Project is made for tracks:
-1) OPEN INNOVATION
-2) BEST USE OF AuthO (sponsored by MLH)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The basic idea for the project is to make a nft based card game where players can play and stand a chance to win an exclusively designed entrepreneur nft .
-In this current time when concepts of blockchain and nft and cryptos are booming with every passing day this is our attempt to help beginners and people enter this world in a very fun way and can generate or collect their first nft.
-Also they will unlock some special perks in our game with each nft they collect!!
-We will use AuthO to keep the track and progress of players so that their progress is synced every time they play.
-Not only this since the nft cards are based on entrepreneurs their overall power will be synced with their current world value so it is subject to change (p.s. the value of nft cards players already won wouldn’t be subject to change).
-Our project aims to fund NGOs which work to provide basic necessities to the underprivileged children through the profits obtained in the process.
-And like mutual funds our nft card values will also be subject to market risks ;) 
+## Available Scripts
 
-*******************************************************UPDATES****************************************************
+In the project directory, you can run:
 
+### `npm start`
 
-1)CREATED GAME FOR USERS TO PLAY
-2)**LINKED METAMASK WALLET** (so that if a player wins our nft it can be directly stored in his wallet also he can use his metamask wallet for transactions ).
-3)**IMPLEMENTED** AuthO
-4)WORKING ON FRONTEND OF THE GAME AND ON ADDING SOME MORE FEATURES!
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
