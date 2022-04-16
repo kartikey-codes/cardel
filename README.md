@@ -1,4 +1,4 @@
-# cardel
+
 # Cardel
 An NFT card game
 Project is made for tracks:
