@@ -2,6 +2,7 @@ CARDELS
 
 Project is made for tracks:
 1) OPEN INNOVATION
+
 2) BEST USE OF AuthO (sponsored by MLH)
 
 The basic idea for the project is to make a nft based card game where players can stand a chance to win an exclusively designed entrepreneur nft .
